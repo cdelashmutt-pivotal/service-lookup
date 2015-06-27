@@ -1,0 +1,3 @@
+stores:
+  ribbon:
+    listOfServers: localhost:8081
